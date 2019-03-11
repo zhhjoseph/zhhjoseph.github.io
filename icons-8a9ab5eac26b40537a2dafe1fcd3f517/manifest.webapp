@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "name": "Joseph-Hu",
+  "description": null,
+  "icons": {
+    "60": "/icons-8a9ab5eac26b40537a2dafe1fcd3f517/firefox_app_60x60.png",
+    "128": "/icons-8a9ab5eac26b40537a2dafe1fcd3f517/firefox_app_128x128.png",
+    "512": "/icons-8a9ab5eac26b40537a2dafe1fcd3f517/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": null,
+    "url": null
+  }
+}
